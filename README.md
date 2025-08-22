@@ -1,5 +1,7 @@
 # Matchy Star Issue Tracker
 
+Check out the game's Steam Page Here: https://matchystar.com
+
 Matchy star aims to be the most fun matching game ever made! Better than all those one armed bandits that twist your arm to get you to buy in app purchases. Better than all those shiny gems that try to bedazzle you with twinkling shiny things.
 
 The game has an "Alpha Build" ready to go. Reach out to @michaelplzno if you want a copy and would like to give feedback/tell me what is confusing. But the alpha build is just a "good game." We need matchy to be Exceptional, Best Ever, A Shining Light in a Dark World, 300 hours of gameplay on average, to be a hit. We need a smooth as silk tutorial that isn't too pushy. The game must be easy to pick up, hard to put down... out of this world fun!
