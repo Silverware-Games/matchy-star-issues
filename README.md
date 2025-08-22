@@ -14,7 +14,7 @@ Rules:
 
 * You must follow GitHub Community Guidelines.
 * This repo is for Matchy Star only. Silverware Games has a lot of projects that you can give feedback to elsewhere!
-* We have final say on what the game becomes, so we might not use your ideas... sorry.
+* We have final say on what the game becomes, so we might not use your ideas... sorry. Also, we can't offer any compensation other than a free copy of the game if we use your idea, so if you have an idea that you don't want us to ... borrow... don't post it!
 * All vulnerabilities should be reported privately.
 * You must not use the Issue Tracker if you do not agree to any of the terms.
 
