@@ -6,7 +6,7 @@ The game has an "Alpha Build" ready to go. Reach out to @michaelplzno if you wan
 
 With all that said, please we welcome your critique/ideas/feedback/insight/pics of your cat/dog/lizard, etc. Please contribute what you can to make this more fun!
 
-#Issue Tracker for Matchy Star
+# Issue Tracker for Matchy Star
 
 Use https://github.com/Silverware-Games/matchy-star-issues/issues to submit an idea or a bug report. You can also email michael@silverwaregames.com if using github is a pain. Or reach out to me @michaelplzno on any of the social media platforms.
 
